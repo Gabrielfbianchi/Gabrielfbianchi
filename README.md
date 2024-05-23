@@ -2,9 +2,9 @@
 
 Meu nome é Gabriel Fernando
 
--Estou estudando Alura
--Estou me desenvolvendo na línguagem JavaScript
--Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+-Estou estudando no (https://www.alura.com.br/)
+-Estou me desenvolvendo na línguagem JavaScript no (https://p5js.org/)
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
 ### Você entrar em contato comigo 📧
 
